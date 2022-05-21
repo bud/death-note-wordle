@@ -1,1 +1,1 @@
-SPIN-OFF OF JACOB LOWER'S WORDLE CLONE
+Spin-off of Jacob Lower's Wordle clone
